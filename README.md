@@ -1,5 +1,5 @@
 # Express-World-Store
-A fullstack e-commerce website built with React and Redux.
+A fullstack e-commerce MEARN STACK website built with React and Redux.
 
 # Features
 Shop products and add items to cart
@@ -15,7 +15,7 @@ Stripe API - accepting credit card payments
 Bootstrap - styling
 Firebase Authentication - user authentication
 # Live Demo
-Insert link to live demo
+https://cleverxpress.web.app/
 
 # Getting Started
 To run locally:
@@ -25,11 +25,10 @@ Copy
 - Clone the repo
 - npm install
 - npm start
-# API Reference
-Add any relevant API reference documentation links here.
+
 
 # Authors
-Your Name - GitHub (@GitHubUsername)
+fady fathey - GitHub (@GitHubUsername)
 
 # License
 MIT
